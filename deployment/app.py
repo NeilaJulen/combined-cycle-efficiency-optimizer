@@ -7,7 +7,7 @@ import joblib
 #Importación del modelo
 # Esto le dice a Python: "Busca el archivo en la misma carpeta donde reside app.py"
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-model_path = os.path.join(BASE_DIR, 'modelo_ccpp.pkl')
+model_path = os.path.join(BASE_DIR, 'modelo_poly_ccpp.pkl')
 model = joblib.load(model_path)
 
 st.title("🏗️ Optimizador de Eficiencia: Ciclo Combinado")
