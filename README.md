@@ -59,6 +59,7 @@ The digital twin correctly identifies the underlying thermodynamic principle: mi
 ## 💻 Dashboard Deployment & Demo
 The interactive console acts as a web-based **Digital Twin** for control-room decision-making. Operators can adjust weather conditions via sliders, and the optimization engine automatically calculates the target operation threshold.
 
+
 <p align="center">
   <img src="YOUR_VIDEO_OR_GIF_PATH_HERE" alt="Dashboard Demo Video" width="850">
 </p>
@@ -72,13 +73,6 @@ The interactive console acts as a web-based **Digital Twin** for control-room de
 
 ---
 
-## 👤 Author
-**Julen** | [LinkedIn Profile](www.linkedin.com/in/julen-neila-garcia-a42304268)
-
-*Passionate about bridging the gap between Mechanical Engineering and Industrial Data Science.*
-
----
-
 ## 📄 License & Dataset Attribution
 
 ### Dataset Source
@@ -88,12 +82,6 @@ The data used in this project is sourced from the **Combined Cycle Power Plant d
 
 ### Formal Citation
 > P. Tufekci and H. Kaya. *"Combined Cycle Power Plant,"* UCI Machine Learning Repository, 2014. [Online]. Available: https://doi.org/10.24432/C5002N.
-
-### Project License
-This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license.
-
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)optimizer-julen-neila-garcia.streamlit.app/)
-
 
 ## 👤 About the Author
 **Julen Neila Garcia** | [www.linkedin.com/in/julen-neila-garcia-a42304268]
