@@ -59,10 +59,7 @@ The digital twin correctly identifies the underlying thermodynamic principle: mi
 ## 💻 Dashboard Deployment & Demo
 The interactive console acts as a web-based **Digital Twin** for control-room decision-making. Operators can adjust weather conditions via sliders, and the optimization engine automatically calculates the target operation threshold.
 
-
-<p align="center">
-  <img src="YOUR_VIDEO_OR_GIF_PATH_HERE" alt="Dashboard Demo Video" width="850">
-</p>
+<img width="1648" height="822" alt="GIF_Energy_Efficiency_Optimizator" src="https://github.com/user-attachments/assets/f46b3440-59a2-4d7c-a179-caead1657f9c" />
 
 ---
 
