@@ -7,7 +7,7 @@ This project focuses on the performance optimization of a **Combined Cycle Power
 
 ## 🚀 Key Features
 * **Predictive Modeling:** At first, a high-accuracy regression analysis using **LinearRegression** to predict power output ($R^2 \approx 0.94$).
-* * **Mathematical Smoothing:** Utilizing a **Polynomial Regression (Degree 2 Pipeline)** to guarantee a continuous, differentiable surface. This mathematical pivot prevents gradient-based optimizers from getting trapped in local minima or discrete "steps" common in tree-based algorithms like XGBoost.
+* **Mathematical Smoothing:** Utilizing a **Polynomial Regression (Degree 2 Pipeline)** to guarantee a continuous, differentiable surface. This mathematical pivot prevents gradient-based optimizers from getting trapped in local minima or discrete "steps" common in tree-based algorithms like XGBoost.
 * **Feature Engineering:** Implementation of thermodynamic indices (*Air Density Index, AT-V Interaction, Specific Humidity*) to improve the model's physical intuition and convergence.
 * **Prescriptive Engine:** A mathematical optimization module using `scipy.optimize` (**SLSQP**) to calculate the ideal exhaust vacuum (**V**) setpoint, maximizing efficiency based on current ambient inputs.
 * **Interactive Dashboard:** A **Streamlit**-based UI that allows operators to perform real-time *"What-if"* analysis.
