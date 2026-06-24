@@ -30,7 +30,7 @@ As a Mechanical Engineer, understanding the underlying thermodynamics is crucial
 
 ## 🛠️ Tech Stack
 * **Language:** Python
-* **ML & Regressions:** Scikit-learn (PolynomialFeatures, LinearRegression)
+* **ML & Regressions:** Scikit-learn (PolynomialFeatures, LinearRegression, XGBRegressor,RandomForestRegressor, GradientBoostingRegressor)
 * **Optimization Engine:** SciPy (SLSQP algorithm)
 * **UI/Dashboard:** Streamlit
 * **Data Engineering:** Pandas, NumPy
